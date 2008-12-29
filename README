@@ -2,7 +2,8 @@
 This is my first python and git project on github.
 
 Contents:
-   README     - this document
+   README              - this document
+   hello_world_GUI.py  - the GUI application itself
 
 29-Dec-2008
 
